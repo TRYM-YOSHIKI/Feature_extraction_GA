@@ -1,0 +1,2 @@
+# Feature_extraction_GA
+遺伝的アルゴリズムを応用してデータの特徴量抽出を行う
